@@ -171,13 +171,9 @@
 }
 
 .table__text {
-  margin: 20px 0 20px;
+  margin: 20px 0 0;
   font-size: 18px;
   line-height: 1.2;
-}
-
-.table__text:last-child {
-  margin-bottom: 0;
 }
 
 .feynman {
@@ -266,6 +262,8 @@
 
 .footer {
   background-color: var(--color-background-1);
+  min-height: 350px;
+  box-sizing: border-box;
   color: var(--color-text-2);
 }
 
@@ -275,6 +273,7 @@
   margin: auto;
   min-height: 350px;
   width: 90%;
+  box-sizing: border-box;
   padding: 60px 0 40px;
 }
 
