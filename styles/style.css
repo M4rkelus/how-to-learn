@@ -186,7 +186,7 @@
   flex-direction: column;
   align-items: center;
   background-color: var(--color-background-2);
-  height: 890px;
+  min-height: 890px;
 }
 
 .feynman__photo {
