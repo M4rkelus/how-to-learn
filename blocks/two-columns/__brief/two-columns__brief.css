@@ -1,0 +1,8 @@
+.two-columns__brief {
+  margin: 0;
+  width: 175px;
+  font-size: 18px;
+  line-height: 1.2;
+  font-weight: normal;
+  color: var(--color-links-shapes);
+}

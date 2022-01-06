@@ -1,0 +1,5 @@
+.table_theme_dark {
+  z-index: 1;
+  position: relative;
+  color: var(--color-text-2);
+}
