@@ -82,12 +82,6 @@
 @import url(../blocks/table/_theme/table_theme_dark.css);
 @import url(../blocks/table/__cell/_theme/table__cell_theme_dark.css);
 
-@import url(../blocks/khan/khan.css);
-
-@import url(../blocks/oakley/oakley.css);
-@import url(../blocks/resources/resources.css);
-@import url(../blocks/video/video.css);
-
 /* Resources section */
 @import url(../blocks/resources/resources.css);
 @import url(../blocks/resources/__logo-zone/resources__logo-zone.css);
