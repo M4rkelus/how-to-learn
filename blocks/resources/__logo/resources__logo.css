@@ -1,4 +1,3 @@
-.resources__logo > img {
-  height: 38px;
-  width: 270px;
+.resources__logo {
+  line-height: 0;
 }
